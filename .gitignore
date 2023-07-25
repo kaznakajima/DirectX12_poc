@@ -35,3 +35,6 @@
 *.sln
 *.vs
 *x64
+/DirectX12_Practice/*.vcxproj
+/DirectX12_Practice/*.filters
+
